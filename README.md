@@ -1,14 +1,25 @@
-# init-core-101
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=init-core-101&fontSize=36&fontColor=a89fd4&fontAlignY=40&animation=fadeIn" />
+</p>
 
+<!--
+# init-core-101 -->
+
+<!--
 ## 🧭 About This Repo  
-A 101-day Python coding journey focused on building core programming skills through daily practice and consistency.
+A 101-day Python coding journey focused on building core programming skills through daily practice and consistency.   -->
 
---- 
+## 📘 About This Repo
+This repository documents my 101-day Python coding journey, focused on strengthening core programming fundamentals through consistent daily practice. 🚀
+<br>
+Each day represents a step forward in improving problem-solving skills, writing clean code, and building strong programming discipline. 🐍💻
 
-## 🎯 Goal  
+<br> 
+
+## 🎯 Purpose
 To improve Python programming fundamentals, problem-solving ability, and discipline by coding every day for 101 days.
 
----
+<br>
 
 ## 🛠️ Tools Used
 
@@ -20,3 +31,7 @@ To improve Python programming fundamentals, problem-solving ability, and discipl
 | GitHub | Code Hosting |
 
 ---
+<br>
+
+## 👨‍💻 Author  
+Shaped through continuous growth by **Md. Bayjid Alom** |
