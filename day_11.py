@@ -8,5 +8,11 @@ Its data type is NoneType.
 x = None
 print(type(x))     #<class 'NoneType'>
 
+
+email = None
+
+if email is None:
+    print("No email found")
+
 # when we use it?
 # When you want to create a variable but don’t want to assign a real value now.
