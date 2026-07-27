@@ -33,5 +33,14 @@ To improve Python programming fundamentals, problem-solving ability, and discipl
 ---
 <br>
 
+
+## ▶️ To run the Project
+
+- Open the project folder in **Git Bash** and run:
+
+```
+py main.py
+```
+
 ## 👨‍💻 Author  
 Shaped through continuous growth by **Md. Bayjid Alom** |
